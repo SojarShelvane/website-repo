@@ -1,0 +1,30 @@
+.header {
+    background-color: #f8f9fb;
+}
+.header ul{
+    list-style-type: none;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+h4 {
+    margin: 0px;
+    
+}
+.header ul li{
+    padding-right: 25px;
+    margin-top: 5px;
+}
+.header ul li a{
+    text-decoration: none;
+}
+.medic-care{
+    margin-top: 15px !important;
+    text-transform: capitalize;
+}
+.medic-care h4 {
+    color: blue;
+    margin: 0px;
+}
